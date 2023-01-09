@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hdcoder
-- 👀 I’m interested in Data Science Analysis and Management studies
+- 👀 I’m pursuing degree in Data Science Analysis and Management studies
 - 🌱 I’m currently learning Python,R etc.
 - 📫 How to reach me ... my mail hsd287@gmail.com
 
